@@ -3,6 +3,7 @@ import ReactPlayer from "react-player";
 function App() {
   return (
     <div className="App">
+      hola
       <header className="App-header">
         <ReactPlayer 
         url ={require('./videos/juju.mp4')}

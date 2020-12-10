@@ -6,7 +6,7 @@ function App() {
       hola
       <header className="App-header">
         <ReactPlayer 
-        url ={require('./')}
+        url ={require('./videos/juju.mp4')}
         width = '100%'
         height = '100%'
         />
